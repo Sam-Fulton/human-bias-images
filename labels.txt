@@ -38,3 +38,7 @@ Inflexible
 Pessimistic
 Inarticulate
 Cold-hearted
+face-tilt : left
+face-tilt : right
+face-tilt : up
+face-tilt : down
